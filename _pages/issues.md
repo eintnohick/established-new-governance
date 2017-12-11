@@ -1,3 +1,8 @@
+---
+layout: default
+title: Issues
+permalink: /issues/
+---
 
 The cabal of corrupt politicians is absolutely disgusting.
 

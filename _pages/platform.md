@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 #### How it Works 
 

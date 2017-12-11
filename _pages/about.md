@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ### Kickstarting the Democratic Evolution 
 

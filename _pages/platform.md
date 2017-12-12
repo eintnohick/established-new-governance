@@ -1,5 +1,7 @@
 ---
 layout: default
+title: The Platform
+permalink: /platform/
 ---
 
 #### How it Works 

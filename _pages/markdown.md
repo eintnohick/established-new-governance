@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Markdown
+permalink: /markdown/
 ---
 
 # Typography 
